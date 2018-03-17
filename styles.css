@@ -20,11 +20,6 @@
     padding : 30px;
 }
 
-.img-responsive {
-    width : 95%;
-    
-}
-
 .main-title {
     font-size : 60px;
     padding: 20px;
@@ -39,4 +34,27 @@
 .description {
     padding : 20px;
     font-size: 18px;
+}
+
+/* images */
+.img-responsive {
+    width : 95%;
+}
+
+.arrow {
+    width: 70%;
+    height: 80%;
+}
+
+
+/* containers on research */
+.two {
+    background : lightgrey;
+}
+
+.box{
+    border:#cdcdcd medium solid;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
 }
