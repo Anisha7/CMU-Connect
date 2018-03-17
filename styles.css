@@ -2,3 +2,31 @@
 #container {
     padding : 10pt;
 }
+
+.res-top{
+    margin-top : 80px;
+}
+
+.quote{
+    font-style: italic;
+}
+
+.sub-head{
+    color : grey;
+    font-style: italic;
+}
+
+.col {
+    padding : 20px;
+}
+
+.img-responsive {
+    width : 95%;
+    
+}
+
+.main-title {
+    font-size : 60px;
+    padding: 20px;
+    text-align: center;
+}
